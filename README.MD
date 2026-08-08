@@ -1,5 +1,5 @@
 ````
-1-mkdir      // folder create karny k ley
+1.mkdir      // folder create karny k ley
 2-cd         // folder main enter hon k ley
 3-cd ..      // folder main ak step peechy any k ley
 4-touch      // file create karn k ley
