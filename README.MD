@@ -1,5 +1,5 @@
-mkdir      // folder create karny k ley
-cd         // folder main enter hon k ley
+1-mkdir      // folder create karny k ley<br>
+2-cd         // folder main enter hon k ley
 cd ..      // folder main ak step peechy any k ley
 touch      // file create karn k ley
 nano       // file main text leakhn k ley
