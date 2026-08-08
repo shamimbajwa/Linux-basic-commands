@@ -1,3 +1,4 @@
+````
 1-mkdir      // folder create karny k ley<br>
 2-cd         // folder main enter hon k ley<br>
 3-cd ..      // folder main ak step peechy any k ley<br>
@@ -46,5 +47,5 @@
 47-du -sh fildername // total size checkkarny k ley<br>
 48-cpuls // cpu k related information mko list dfown kr do<br>
 49-lsblk //list block devices(HDD SDD ect) ke hiss yhni particion dekhata ha<br>
-
+```
 
