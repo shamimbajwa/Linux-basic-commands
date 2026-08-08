@@ -28,23 +28,23 @@
 28-ls -l //check karny k ley<br>
 29-owner k ley o group k ley go aur others k le o use hota ha<br>
 30-chown   // owner change karny k ley<br>
-chown root filename<br>
-chgrp shamim filename//group change karny k ley<br>
-//folders ko tar aur zip banana<br>
-tar -cvf task.tar task<br>
-tar -xvf task.tar <br>
-zip -r task.tar task<br>
-unzip -l task.tar<br>
-tar -czvf task.tar.gzp task<br>
-tar -xzvf task.tar.gzp<br>
-//hamary pass do tarh k user hot hain ak normal user aur dusra root<br>
-//normak user ko permission k ley sudo lekhna parta ha<br>
-//agr normal user h root user bnn jy to phir us sudo lekhny k zarurat  nai<br>
-sudo -i // root user bann k ley,whoami to wo root user baty ga<br>
-df -h  // disk storage ketni bari ha aur ketni khali ha,-h mean human readable<br>
-du -h myfolder  //  y folder ketni jaga ly raha ha<br>
-du -sh fildername // total size checkkarny k ley<br>
-cpuls // cpu k related information mko list dfown kr do<br>
-lsblk //list block devices(HDD SDD ect) ke hiss yhni particion dekhata ha<br>
+31-chown root filename<br>
+32-chgrp shamim filename//group change karny k ley<br>
+33-//folders ko tar aur zip banana<br>
+34-tar -cvf task.tar task<br>
+35-tar -xvf task.tar <br>
+36-zip -r task.tar task<br>
+37-unzip -l task.tar<br>
+38-tar -czvf task.tar.gzp task<br>
+39-tar -xzvf task.tar.gzp<br>
+40-//hamary pass do tarh k user hot hain ak normal user aur dusra root<br>
+41-//normak user ko permission k ley sudo lekhna parta ha<br>
+42-//agr normal user h root user bnn jy to phir us sudo lekhny k zarurat  nai<br>
+43-sudo -i // root user bann k ley,whoami to wo root user baty ga<br>
+44-df -h  // disk storage ketni bari ha aur ketni khali ha,-h mean human readable<br>
+46-du -h myfolder  //  y folder ketni jaga ly raha ha<br>
+47-du -sh fildername // total size checkkarny k ley<br>
+48-cpuls // cpu k related information mko list dfown kr do<br>
+49-lsblk //list block devices(HDD SDD ect) ke hiss yhni particion dekhata ha<br>
 
 
