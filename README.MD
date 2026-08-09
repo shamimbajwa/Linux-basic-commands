@@ -47,5 +47,9 @@
 47-du -sh fildername // total size checkkarny k ley
 48.cpuls // cpu k related information mko list dfown kr do
 49.lsblk //list block devices(HDD SDD ect) ke hiss yhni particion dekhata ha
+50.Pwd    // current location check karnyy k ley
+51. cp //files ko cop karn k ley
+52.cv   // files ko paste karn k ley
+53.cp -r // foldrrs ko copy karny k ley
 ```
 
