@@ -36,8 +36,8 @@
 35.tar -xvf task.tar 
 36.zip -r task.tar task
 37.unzip -l task.tar
-38.tar -czvf task.tar.gzp task
-39.tar -xzvf task.tar.gzp
+38.tar -czvf task.tar.gz task
+39.tar -xzvf task.tar.gz
 40.//hamary pass do tarh k user hot hain ak normal user aur dusra root
 41.//normak user ko permission k ley sudo lekhna parta ha
 42.//agr normal user h root user bnn jy to phir us sudo lekhny k zarurat  nai
