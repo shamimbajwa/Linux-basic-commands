@@ -24,8 +24,8 @@
 23.owner    // 4 points
 24.group    //2 points
 25.other    //1 point
-26.chmod 750 "file name" //yhn owner ko read ,write,aur excute karny ke permission ha aur group ko read and write ke aur others ko koi permission nai de gai
-27.chmod o+r "file name"  // others ko read karn ke permision dena
+26.chmod 750 file name //yhn owner ko read ,write,aur excute karny ke permission ha aur group ko read and write ke aur others ko koi permission nai de gai
+27.chmod o+r file name  // others ko read karn ke permision dena
 28.ls -l //check karny k ley
 29.owner k ley o group k ley go aur others k le o use hota ha
 30.chown   // owner change karny k ley
@@ -51,5 +51,6 @@
 51. cp //files ko cop karn k ley
 52.cv   // files ko paste karn k ley
 53.cp -r // foldrrs ko copy karny k ley
+free -h // ram ketni khali ha
 ```
 
