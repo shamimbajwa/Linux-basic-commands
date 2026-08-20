@@ -45,8 +45,7 @@
 44.df -h  // disk storage ketni bari ha aur ketni khali ha,-h mean human readable
 46.du -h myfolder  //  y folder ketni jaga ly raha ha
 47-du -sh fildername // total size checkkarny k ley
-48.cpuls // cpu k related information mko list dfown kr do
-49.lsblk //list block devices(HDD SDD ect) ke hiss yhni particion dekhata ha
+48.cpu mian jo process chal rah hoty hain unhain list down karny k ley htoop ke command run karty hain aur kill karny k ley pkill -9 firefox
 50.Pwd    // current location check karnyy k ley
 51. cp //files ko cop  aur paste karny k ley
 52.cv   // files ko cut aur paste karny k ley
